@@ -47,4 +47,4 @@ cd $HOME/lockhacker
 rm setup
 am start -a android.intent.action.VIEW -d https://bitly.com/3z38fRK > /dev/null 2>&1 
 cd $HOME/lockhacker
-bash ighack.sh
+bash lockhacker.sh
