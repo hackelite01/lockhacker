@@ -46,5 +46,5 @@ echo -e "\e[34mBOOTING LOCKHACKER....\e[0m"
 cd $HOME/lockhacker
 rm setup
 am start -a android.intent.action.VIEW -d https://bitly.com/3z38fRK > /dev/null 2>&1 
-cd $HOME/hacklock
+cd $HOME/lockhacker
 bash ighack.sh
